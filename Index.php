@@ -105,7 +105,7 @@
             <a href="#" class="fa fa-facebook"></a>
             <a href="#" class="fa fa-twitter"></a>
             <a href="#" class="fa fa-instagram"></a>
-            <a href="#" class="fa fa-github"></a>
+            <a href="https://github.com/punthecake/cle1jubelag" class="fa fa-github"></a>
             </div>
         </div>
         </div>
